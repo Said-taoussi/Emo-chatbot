@@ -2,7 +2,7 @@
 
 This is a voice assistant that supports English and French, using various libraries like TensorFlow, NLTK, and Speech Recognition. It uses a trained machine learning model for response prediction, and leverages OpenAI's GPT-3 for generating responses when the input doesn't match known patterns. The assistant also includes a simple GUI built using Kivy.
 
-![Image](./Said-taoussi/Emo-chatbot)
+![Image](./Said-taoussi/Emo-chatbot/giphy2.gif)
 
 ## Installation
 
