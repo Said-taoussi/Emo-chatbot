@@ -1,0 +1,258 @@
+{"intents":
+[{"patterns": ["Hey","Hello","What's up?","How is it going?","Hi","Good day"],
+"responses": ["Hello there! How may I assist you today?"]},
+{"patterns": ["What is EMINES?", "What's EMINES?"],
+"responses": ["EMINES is a school that trains generalist engineers. They are engineers who master the basic scientific and technical knowledge and skills, but also have competencies in everything related to economics and management."]},
+
+{"patterns": ["Please take me to the cafeteria","I want to go to the cafeteria","Take me to the cafeteria","Cafeteria","Take me"],
+"responses": ["Sure, follow me to the cafeteria!"]},
+
+{"patterns": ["Where is the director's office?","The director's office","Director's office","Director office"],
+"responses": ["The director's office is located in bloc A, in front of the cafeteria. Would you like me to take you there?"]},
+
+{"patterns": ["Show me the laboratory","Can you take me to the laboratory?"],
+"responses": ["The laboratories are located in bloc D and bloc E. Follow me if you'd like to see them."]},
+
+{"patterns": ["Where can I find the health center?","How do I get to the health center?"],
+"responses": ["The health center is located in front of the student's laboratory. Would you like me to take you there?"]},
+
+{"patterns": ["Introduce yourself", "Who are you?", "What's your name?"],
+"responses": ["Hello, I am your campus assistant. I can help you navigate EMINES and answer your questions. How may I assist you today?"]},
+
+{"patterns": ["Sure","Take me there","Okay take me there","Take me to"],
+"responses": ["Of course, follow me!"]},
+
+{"patterns": ["Where do students study robotics?", "Robotics lab", "Can you take me to the robotics lab?"],
+"responses": ["The robotics laboratory is located in bloc D. Follow me if you'd like to see it."]},
+
+{"patterns": ["Where is the prayer room?", "Prayer room", "Can you take me to the prayer room?"],
+"responses": ["The prayer room is located near the Incubator. Would you like me to take you there?"]},
+
+{"patterns": ["Can you show me the staff desks?", "Where are the staff desks?", "I want to see the staff desks"],
+"responses": ["The staff desks are located in bloc A, near the director's office. Follow me if you'd like to see them."]},
+
+{"patterns": ["Where can I find Starbucks?", "Coffee", "I need coffee"],
+"responses": ["Starbucks is located near the Restaurant. Is there anything else I can assist you with?"]},
+
+{"patterns": ["Can you take me to the learning center?", "Learning center", "I want to study in the learning center"],
+"responses": ["The learning center is located on the second floor of the main building. Follow me if you'd like to see it."]},
+
+{"patterns": ["What is the students space?", "Recreational space", "Can you take me to the student recreational space?"],
+"responses": ["The students recreational space is located next to the cafeteria. Follow me if you'd like to see it."]},
+
+{"patterns": ["Where is the library located?", "Library", "Can you take me to the library?"],
+"responses": ["The library is located on the second floor of the main building. Follow me if you'd like to see it."]},
+{"patterns": ["Can you give me directions to the sports center?", "Where is the sports center located?", "Is there a place to play sports on campus?"],
+"responses": ["Yes, the sports center is located near the volleyball and basketball courts. Follow me if you'd like to see it."]},
+
+{"patterns": ["Can you show me where the auditorium is?", "Where can I find the conference center?", "I'm looking for the auditorium."],
+"responses": ["The auditorium is located in the conference center on the first floor of the main building. Follow me if you'd like to see it."]},
+
+{"patterns": ["Can you direct me to the computer lab?", "Where is the computer lab located?", "Is there a place to use computers on campus?"],
+"responses": ["The computer lab is located in bloc A on the first and second floor. Follow me if you'd like to see it."]},
+
+{"patterns": ["Where is the student lounge located?", "Can you show me where the student lounge is?", "I'm looking for the student lounge."],
+"responses": ["The student lounge is located on the ground floor next to the cafeteria. Follow me if you'd like to see it."]},
+
+{"patterns": ["Can you tell me where the art room is?", "Where can I find the art room?", "Is there an art room on campus?"],
+"responses": ["The art room is located in the creative arts block on the second floor. Follow me if you'd like to see it."]},
+
+{"patterns": ["Where is the music room located?", "Can you direct me to the music room?", "I'm looking for the music room."],
+"responses": ["The music room is located in the creative arts block on the ground floor in the students lounge. Follow me if you'd like to see it."]},
+
+{"patterns": ["Can you show me where the cafeteria is?", "Where can I find the cafeteria?", "Is there a place to eat on campus?"],
+"responses": ["The cafeteria is located on the ground floor next to the student lounge. Follow me if you'd like to see it."]},
+
+{"patterns": ["Can you help me find my way around the campus?", "I'm lost, can you guide me?", "Where should I go?"],
+"responses": ["Of course, just tell me where you want to go and I'll take you there."]},
+
+{"patterns": ["What is the Wi-Fi password?","How can I connect to the Wi-Fi?"],
+"responses": ["I am sorry, I do not have the Wi-Fi password. However, you can find information on how to connect to the Wi-Fi on the EMINES website. Is there anything else I can assist you with?"]},
+
+{"patterns": ["What is the phone number of EMINES?","How can I contact EMINES?"],
+"responses": ["You can find the phone number and other contact information for EMINES on their website. Is there anything else I can assist you with?"]},
+
+{"patterns": ["Can you tell me more about Nicolas Cheimanoff?","Who is the director of EMINES?"],
+"responses": ["Nicolas Cheimanoff is the director of EMINES. His office is located in bloc A, in front of the cafeteria. Would you like me to take you there?"]},
+
+{"patterns": ["Can you tell me more about Khadija?","Who is Khadija?","What is Khadija's role at EMINES?"],
+"responses": ["Khadija is the secretary of Nicolas Cheimanoff, the director of EMINES. Her office is located near the director's office in bloc A. Would you like me to take you there?"]},
+
+{"patterns": ["What kind of activities does the Etech lab offer?","What can I do in the Etech lab?","What are the projects that Etech lab is currently working on?"],
+"responses": ["The Etech lab is a space where students can work on various technology-related projects, including robotics, electronics, and software development. It is located in bloc E. Follow me if you'd like to see it."]},
+
+{"patterns": ["Can I visit the robotics laboratory?","What can I do in the robotics lab?"],
+"responses": ["The robotics laboratory is located in bloc D. It is equipped with various types of robots and related equipment, such as computer workstations, programming tools, and robotic components. Follow me if you'd like to see it."]},
+
+{"patterns": ["Where can I find the parking lot?","Where can I park my car?"],
+"responses": ["The parking lot is located behind the main building. Follow me if you'd like to see it."]},
+
+{"patterns": ["What is the schedule for today?","What events are happening today?","What are the upcoming events?"],
+"responses": ["You can find information about upcoming events and schedules on the EMINES website. Is there anything else I can assist you with?"]},
+{"patterns": ["Is there a bookstore on campus?","Where can I buy textbooks?"],
+"responses": ["I am sorry, there is no bookstore on the EMINES campus. However, you can find information about purchasing textbooks on the EMINES website. Is there anything else I can assist you with?"]},
+
+{"patterns": ["Can you tell me more about the Incubator?","What is the Incubator's mission?","What are the benefits of joining the Incubator?"],
+"responses": ["The Incubator is a space for startups and entrepreneurs to develop their ideas and receive mentorship and support. It is located near the mosque. Would you like me to take you there?"]},
+
+{"patterns": ["Where can I find the student services office?"],
+"responses": ["The student services office is located in bloc A on the first floor. Follow me if you'd like to see it."]},
+
+{"patterns": ["What are the office hours for the administration?"],
+"responses": ["You can find information about office hours for the administration on the EMINES website. Is there anything else I can assist you with?"]},
+
+{"patterns": ["What is the campus policy on smoking?","Where can I smoke on campus?"],
+"responses": ["Smoking is not permitted on the EMINES campus. Is there anything else I can assist you with?"]},
+
+{"patterns": ["Can you tell me more about the student clubs at EMINES?","What are the popular student clubs at EMINES?","How can I join a student club?","Students Club","Emines Club"],
+"responses": ["EMINES has a variety of student clubs focused on different interests, including technology, art, music, and sports. You can find more information about these clubs on the EMINES website. Is there anything else I can assist you with?"]},
+
+{"patterns": ["What is the campus policy on parking?"],
+"responses": ["Parking is available for students and visitors in the parking lot behind the main building. Please make sure to park in designated areas and follow campus parking policies. Is there anything else I can assist you with?"]},
+
+{"patterns": ["What is the campus policy on food and drink?","Where can I eat on campus?"],
+"responses": ["Food and drinks are allowed in designated areas on the EMINES campus, including the cafeteria and student recreational space. Follow me if you'd like to see these areas. Is there anything else I can assist you with?"]},
+
+{"patterns": ["What is the campus policy on pets?","Can I bring my pet to campus?"],
+"responses": ["Pets are not allowed on the EMINES campus, with the exception of service animals. Is there anything else I can assist you with?"]},
+
+{"patterns": ["Can you tell me more about the campus security?"],
+"responses": ["EMINES has a security team in place to ensure the safety of students, faculty, and staff. You can find more information about campus security on the EMINES website. Is there anything else I can assist you with?"]},
+
+{"patterns": ["What are the campus hours?"],
+"responses": ["EMINES is open during regular business hours, which can be found on the EMINES website. Is there anything else I can assist you with?"]},
+
+{"patterns": ["Can you tell me more about the student exchange program at EMINES?"],
+"responses": ["EMINES offers a student exchange program that allows students to study abroad and gain valuable experience in different cultures and academic settings. You can find more information about this program on the EMINES website. Is there anything else I can assist you with?"]},
+
+{"patterns": ["What are the campus resources available for students?"],
+"responses": ["EMINES offers a variety of resources for students, including academic advising, career counseling, and tutoring services. You can find more information about these resources on the EMINES website. Is there anything else I can assist you with?"]},
+
+{"patterns": ["Can you tell me more about the campus internship opportunities?","What are the companies that offer internships on campus?","How can I apply for an internship at EMINES?","Emines internships"],
+"responses": ["EMINES offers a variety of internship opportunities that allow students to gain practical experience in their fields of study. You can find more information about these opportunities on the EMINES website. Is there anything else I can assist you with?"]},
+{"patterns": ["Hey", "Bonjour", "Quoi de neuf?", "Comment ça va?", "Salut", "Bonne journée"],
+"responses": ["Bonjour! Comment puis-je vous aider aujourd'hui?"]},
+
+{"patterns": ["Emmenez-moi à la cafétéria", "Je veux aller à la cafétéria", "Amenez-moi à la cafétéria", "Cafétéria", "Emmenez-moi"],
+"responses": ["Bien sûr, suivez-moi jusqu'à la cafétéria!"]},
+
+{"patterns": ["Où est le bureau du directeur?", "Le bureau du directeur", "Bureau du directeur", "Bureau du directeur"],
+"responses": ["Le bureau du directeur est situé dans le bloc A, en face de la cafétéria. Voulez-vous que je vous y emmène?"]},
+
+{"patterns": ["Montrez-moi le laboratoire", "Pouvez-vous m'amener au laboratoire?", "Laboratoire"],
+"responses": ["Les laboratoires sont situés dans les blocs D et E. Suivez-moi si vous voulez les voir."]},
+
+{"patterns": ["Où puis-je trouver le centre de santé ?","centre de santé","je veux le centre de santé"],
+"responses": ["Le centre de santé est situé en face du laboratoire des étudiants. Voulez-vous que je vous y emmène?"]},
+
+{"patterns": ["Présentez-vous", "Qui êtes-vous?", "Comment vous appelez-vous?"],
+"responses": ["Bonjour, je suis votre assistant de campus. Je peux vous aider à naviguer dans EMINES et répondre à vos questions. Comment puis-je vous aider aujourd'hui?"]},
+
+{"patterns": ["Bien sûr", "Emmenez-moi là-bas", "D'accord, amenez-moi là-bas", "Emmenez-moi à"],
+"responses": ["Bien sûr, suivez-moi!"]},
+
+{"patterns": ["Où étudient les étudiants en robotique?", "Laboratoire de robotique", "Pouvez-vous m'amener au laboratoire de robotique?"],
+"responses": ["Le laboratoire de robotique est situé dans le bloc D. Suivez-moi si vous voulez le voir."]},
+
+{"patterns": ["Où se trouve la salle de prière?", "Salle de prière", "Pouvez-vous m'amener à la salle de prière?"],
+"responses": ["La salle de prière est située près de l'Incubateur. Voulez-vous que je vous y emmène?"]},
+
+{"patterns": ["Pouvez-vous me montrer les bureaux du personnel?", "Où sont les bureaux du personnel?", "Je veux voir les bureaux du personnel"],
+"responses": ["Les bureaux du personnel sont situés dans le bloc A, près du bureau du directeur. Suivez-moi si vous voulez les voir."]},
+
+{"patterns": ["Où puis-je trouver Starbucks?", "Café", "J'ai besoin de café"],
+"responses": ["Starbucks est situé près du restaurant. Est-ce qu'il y a autre chose que je peux vous aider?"]},
+{"patterns": ["Pouvez-vous me conduire au centre d'apprentissage?", "Centre d'apprentissage", "Je veux étudier au centre d'apprentissage"],
+"responses": ["Le centre d'apprentissage se trouve au deuxième étage du bâtiment principal. Suivez-moi si vous voulez le voir."]},
+
+{"patterns": ["Qu'est-ce que l'espace étudiant?", "Espace de loisirs", "Pouvez-vous me montrer l'espace de loisirs étudiant?"],
+"responses": ["L'espace de loisirs étudiant se trouve à côté de la cafétéria. Suivez-moi si vous voulez le voir."]},
+
+{"patterns": ["Où se trouve la bibliothèque?", "Bibliothèque", "Pouvez-vous me conduire à la bibliothèque?"],
+"responses": ["La bibliothèque se trouve au deuxième étage du bâtiment principal. Suivez-moi si vous voulez la voir."]},
+
+{"patterns": ["Pouvez-vous me donner des indications pour le centre de sport?", "Où se trouve le centre de sport?", "Y a-t-il un endroit pour jouer au sport sur le campus?","centre de sport"],
+"responses": ["Oui, le centre sportif se trouve près des terrains de volley-ball et de basket-ball. Suivez-moi si vous voulez le voir."]},
+
+{"patterns": ["Pouvez-vous me montrer où se trouve l'auditorium?", "Où puis-je trouver le centre de conférence?", "Je cherche l'auditorium."],
+"responses": ["L'auditorium se trouve dans le centre de conférence, au premier étage du bâtiment principal. Suivez-moi si vous voulez le voir."]},
+
+{"patterns": ["Pouvez-vous me diriger vers la salle informatique?", "Où se trouve la salle informatique?", "Y a-t-il un endroit pour utiliser des ordinateurs sur le campus?","salle informatique"],
+"responses": ["La salle informatique se trouve dans le bloc A, au premier et deuxième étage. Suivez-moi si vous voulez la voir."]},
+
+{"patterns": ["Où se trouve le salon étudiant?", "Pouvez-vous me montrer où se trouve le salon étudiant?", "Je cherche le salon étudiant."],
+"responses": ["Le salon étudiant se trouve au rez-de-chaussée à côté de la cafétéria. Suivez-moi si vous voulez le voir."]},
+
+{"patterns": ["Pouvez-vous me dire où se trouve la salle d'art?", "Où puis-je trouver la salle d'art?", "Y a-t-il une salle d'art sur le campus?"],
+"responses": ["La salle d'art se trouve dans le bloc des arts créatifs au deuxième étage. Suivez-moi si vous voulez la voir."]},
+
+{"patterns": ["Où se trouve la salle de musique?", "Pouvez-vous me diriger vers la salle de musique?", "Je cherche la salle de musique."],
+"responses": ["La salle de musique se trouve dans le bloc des arts créatifs au rez-de-chaussée, dans le salon étudiant. Suivez-moi si vous voulez la voir."]},
+{"patterns": ["Pouvez-vous me montrer où se trouve la cafétéria ?", "Où puis-je trouver la cafétéria ?", "Y a-t-il un endroit pour manger sur le campus ?"],
+"responses": ["La cafétéria se trouve au rez-de-chaussée à côté de la salle des étudiants. Suivez-moi si vous voulez la voir."]},
+
+{"patterns": ["Pouvez-vous m'aider à me repérer sur le campus ?", "Je suis perdu, pouvez-vous me guider ?", "Où devrais-je aller ?","je suis perdu"],
+"responses": ["Bien sûr, dites-moi simplement où vous voulez aller et je vous y emmènerai."]},
+
+{"patterns": ["Quel est le mot de passe Wi-Fi ?", "Comment puis-je me connecter au Wi-Fi ?","wifi","je veux me connécter au wifi"],
+"responses": ["Le wifi est normalement disponible pour des réseaux communs comme Wifi-Guest, sinon vous devez etre incris préalablement pour avoir accés à UM6P réseau"]},
+
+{"patterns": ["Quel est le numéro de téléphone d'EMINES ?", "Comment puis-je contacter EMINES ?","contacter emines","comment est ce que je peux contacter emines"],
+"responses": ["Vous pouvez trouver le numéro de téléphone et d'autres informations de contact pour EMINES sur leur site Web. Y a-t-il autre chose sur quoi je peux vous aider ?"]},
+
+{"patterns": ["Pouvez-vous m'en dire plus sur Nicolas Cheimanoff ?", "Qui est le directeur de l'EMINES ?"],
+"responses": ["Nicolas Cheimanoff est le directeur de l'EMINES. Son bureau se trouve dans le bloc A, en face de la cafétéria. Voulez-vous que je vous y emmène ?"]},
+
+{"patterns": ["Pouvez-vous m'en dire plus sur Khadija ?", "Qui est Khadija ?","Ou se trouve le bureau de khadija","khadija"],
+"responses": ["Khadija est la secrétaire de Nicolas Cheimanoff, le directeur de l'EMINES. Son bureau se trouve près du bureau du directeur dans le bloc A. Voulez-vous que je vous y emmène ?"]},
+
+{"patterns": ["Quels types d'activités propose le laboratoire emines technologie ?", "Que puis-je faire dans le laboratoire emines technologie ?","laboratoire emines technologie","ou se trouve le laboratoire emine technologie"],
+"responses": ["Le laboratoire Etech est un espace où les étudiants peuvent travailler sur différents projets liés à la technologie, notamment la robotique, l'électronique et le développement de logiciels. Il est situé dans le bloc E. Suivez-moi si vous voulez le voir."]},
+
+{"patterns": ["Puis-je visiter le laboratoire de robotique ?", "Que puis-je faire dans le laboratoire de robotique ?","ou est le laboratoir de robotique"],
+"responses": ["Le laboratoire de robotique est situé dans le bloc D. Il est équipé de différents types de robots et d'équipements connexes, tels que des postes de travail informatiques, des outils de programmation et des composants robotiques. Suivez-moi si vous voulez le voir."]},
+
+{"patterns": ["Où puis-je trouver le parking ?", "Où puis-je garer ma voiture ?"],
+"responses": ["Le parking se trouve derrière le bâtiment principal. Suivez-moi si vous voulez le voir."]},
+{"patterns": ["Où est le bureau du directeur ?", "Le bureau du directeur", "Bureau du directeur", "Bureau du directeur"],
+"responses": ["Le bureau du directeur est situé dans le bloc A, en face de la cafétéria. Voulez-vous que je vous y emmène ?"]},
+{"patterns": ["Quel est le programme pour aujourd'hui ?", "Quels événements se déroulent aujourd'hui ?", "Quels sont les événements à venir ?"],
+"responses": ["Vous pouvez trouver des informations sur les événements à venir et les programmes sur le site web d'EMINES. Y a-t-il autre chose sur lequel je peux vous aider ?"]},
+{"patterns": ["Y a-t-il une librairie sur le campus ?", "Où puis-je acheter des manuels scolaires ?"],
+"responses": ["Je suis désolé, il n'y a pas de librairie sur le campus d'EMINES. Cependant, vous pouvez trouver des informations sur l'achat de manuels scolaires sur le site web d'EMINES. Y a-t-il autre chose sur lequel je peux vous aider ?"]},
+{
+"patterns": ["Pouvez-vous m'en dire plus sur l'incubateur ?"],
+"responses": ["L'incubateur est un espace dédié aux startups et aux entrepreneurs pour développer leurs idées et bénéficier d'un mentorat et d'un soutien. Il est situé près de la mosquée. Souhaitez-vous que je vous y accompagne ?"]
+},
+
+{
+"patterns": ["Où puis-je trouver le bureau des services aux étudiants ?"],
+"responses": ["Le bureau des services aux étudiants se trouve dans le bloc A, au premier étage. Suivez-moi si vous souhaitez le voir."]
+},
+
+{
+"patterns": ["Quels sont les horaires d'ouverture de l'administration ?"],
+"responses": ["Vous pouvez trouver les informations sur les horaires d'ouverture de l'administration sur le site web d'EMINES. Puis-je vous aider avec autre chose ?"]
+},
+
+{
+"patterns": ["Quelle est la politique de l'université concernant le tabagisme ?", "Où puis-je fumer sur le campus ?"],
+"responses": ["Il est interdit de fumer sur le campus d'EMINES. Puis-je vous aider avec autre chose ?"]
+},
+
+{
+"patterns": ["Pouvez-vous m'en dire plus sur les clubs étudiants à EMINES ?"],
+"responses": ["EMINES propose une variété de clubs étudiants axés sur différents intérêts, tels que la technologie, l'art, la musique et le sport. Vous pouvez trouver plus d'informations sur ces clubs sur le site web d'EMINES. Puis-je vous aider avec autre chose ?"]
+},
+{
+"patterns": ["Quelle est la politique de l'université concernant les animaux de compagnie ?", "Puis-je amener mon animal de compagnie sur le campus ?"],
+"responses": ["Les animaux de compagnie ne sont pas autorisés sur le campus d'EMINES, à l'exception des animaux d'assistance. Puis-je vous aider avec autre chose ?"]
+},
+{"patterns": ["Où est le bureau du directeur ?"],
+"responses": ["Le bureau du directeur est situé dans le bloc A, en face de la cafétéria. Voulez-vous que je vous y emmène ?"]},
+
+{"patterns": ["Quelles sont les heures d'ouverture du campus ?"],
+"responses": ["EMINES est ouvert pendant les heures de bureau habituelles, que vous pouvez trouver sur le site web d'EMINES. Puis-je vous aider avec autre chose ?"]},
+{"patterns": ["qu'est ce que l'emines ?","c'est quoi emines"],
+"responses": ["EMINES C’est une école qui forme des ingénieurs généralistes, ce sont des ingénieurs qui maîtrisent les savoirs et savoir-faire scientifiques et techniques de base mais qui ont en même temps des compétences en tout ce qui est économie et management."]}
+]}
